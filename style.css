@@ -1,0 +1,32 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+  line-height: 1.5;
+  background: #fffaf3;
+  color: #2b2118;
+}
+
+header {
+  border-bottom: 3px solid #e07a2f;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  color: #c4561a;
+}
+
+.recipes li {
+  margin: 0.4rem 0;
+}
+
+a {
+  color: #8a3b12;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #6b5a4c;
+}

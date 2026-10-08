@@ -1,0 +1,18 @@
+# Files Git should never track.
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Jekyll build output (GitHub Pages builds the site itself)
+_site/
+.jekyll-cache/
+
+# Secrets: never commit these
+.env
+*.key
